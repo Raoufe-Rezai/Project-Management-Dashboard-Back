@@ -1,4 +1,4 @@
-# Project Management Site - Back 
+# Project Management Dashboard - Back 
 
 The Project Management Dashboard is a web-based tool for managing projects, tasks and access control. It allows users to assign tasks, track progress, and collaborate efficiently with role-based access control. Ideal for streamlining workflows and enhancing team productivity.
 
